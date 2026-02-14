@@ -63,6 +63,5 @@ Some states with **higher electric vehicle adoption** show **relatively improved
 
 📎 Author
 **Adarsh Kumar**
-Aspiring Data Analyst skilled in **Excel, SQL, and Power BI**
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
